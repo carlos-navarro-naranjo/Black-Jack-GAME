@@ -1,4 +1,7 @@
 # 🎮 BlackJack GAME C++
+<p align="center">
+  <img src="blackjack.png" width="700">
+</p>
 
 A custom Blackjack game built in C++ featuring modified gameplay mechanics, interactive player choices, and a full card/deck system using vectors and functions.
 
